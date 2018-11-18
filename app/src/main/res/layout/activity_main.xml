@@ -16,7 +16,7 @@
         android:layout_height="wrap_content"
         android:text="Berpindah Halaman"
         android:layout_margin="15dp"
-        android:style="@style/Widget.AppCompat.Button.Colored"
+        style="@style/Widget.AppCompat.Button.Colored"
         />
 
     <Button
@@ -25,6 +25,6 @@
         android:layout_height="wrap_content"
         android:text="Share ke SOSMED"
         android:layout_margin="15dp"
-        android:style="@style/Widget.AppCompat.Button.Colored"/>
+       style="@style/Widget.AppCompat.Button.Colored"/>
 
 </LinearLayout>
